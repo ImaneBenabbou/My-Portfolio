@@ -121,7 +121,7 @@ const Contact: React.FC = () => {
           </motion.div>
           <motion.div variants={itemVariants} className="flex items-center justify-center">
            <img
-            src="/images/imane.png"
+            src="/My-Portfolio/images/imane.png"
             alt="Contact illustration"
             className="w-full max-w-md rounded-xl shadow-lg"
             />

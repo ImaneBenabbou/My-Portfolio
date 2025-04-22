@@ -32,7 +32,7 @@ const Projects: React.FC = () => {
     {
       title: "Multi-Warehouse Operations Management System",
       description: "Real-time inventory tracking system with REST API architecture for efficient warehouse management.",
-      image: "/images/warehouse.jpg",
+      image: "/My-Portfolio/images/warehouse.jpg",
       tags: [
         "Spring Boot", "Hibernate", "UML", "MySQL",
         "HTML", "CSS", "JavaScript", "Bootstrap", "Git"
@@ -42,7 +42,7 @@ const Projects: React.FC = () => {
     {
       title: "Complaint Management Observatory",
       description: "Web & mobile platform with AI-based classification for streamlined complaint processing and resolution.",
-      image: "/images/Complaint1.jpg",
+      image: "/My-Portfolio/images/Complaint1.jpg",
       tags: [
         "Spring Boot", "React.js", "D3.js", "PostgreSQL", "MongoDB",
         "spaCy", "FastAPI", "Docker", "Kubernetes", "Firebase", "Git"
@@ -53,7 +53,7 @@ const Projects: React.FC = () => {
     {
       title: "Cloud-Based Space Mission Control",
       description: "Microservices platform for real-time telemetry and 3D satellite visualization with advanced data processing capabilities.",
-      image: "/images/space.jpeg",
+      image: "/My-Portfolio/images/space.jpeg",
       tags: [
         "Spring Boot", "Apache Kafka", "PostgreSQL", "MongoDB",
         "Kubernetes", "Next.js", "Three.js", "TensorFlow",

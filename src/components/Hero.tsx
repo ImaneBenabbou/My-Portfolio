@@ -125,7 +125,7 @@ const Hero: React.FC = () => {
           {/* Right Side - Image */}
           <motion.div variants={itemVariants} className="flex justify-center">
             <img
-              src="/images/portfolio.png"
+              src="/My-Portfolio/images/portfolio.png"
               alt="Imane Benabbou"
               className="w-72 h-72 rounded-full object-cover shadow-lg"
             />

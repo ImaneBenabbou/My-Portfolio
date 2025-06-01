@@ -35,7 +35,7 @@ const Skills: React.FC = () => {
         { name: "Python", level: 60 },
         { name: "C", level: 90 },
         { name: "HTML/CSS", level: 90 },
-        { name: "JavaScript", level: 85 },
+        { name: "JavaScript", level: 80 },
         { name: "React.js", level: 80 },
         { name: "Node.js", level: 65 },
         { name: "FastAPI", level: 55 },
@@ -47,7 +47,6 @@ const Skills: React.FC = () => {
       skills: [
         { name: "MySQL", level: 96 },
         { name: "PostgreSQL", level: 90 },
-        { name: "MongoDB", level: 60 },
         { name: "Oracle", level: 80 },
         { name: "SQL Server", level: 80 }
       ]
@@ -55,10 +54,8 @@ const Skills: React.FC = () => {
     {
       title: "Big Data & AI",
       skills: [
-        { name: "TensorFlow", level: 50 },
         { name: "spaCy", level: 50 },
-        { name: "Apache Kafka", level: 70 },
-        { name: "Apache Spark", level: 60 }
+        { name: "Apache Kafka", level: 70 }      
       ]
     },
     {
@@ -67,10 +64,10 @@ const Skills: React.FC = () => {
         { name: "Git", level: 95 },
         { name: "Docker", level: 80 },
         { name: "Kubernetes", level: 70 },
-        { name: "Jenkins", level: 65 },
-        { name: "Prometheus", level: 60 },
-        { name: "Grafana", level: 60 },
-        { name: "Firebase", level: 70 }
+        { name: "Jenkins", level: 90 },
+        { name: "Prometheus", level: 50 },
+        { name: "Grafana", level: 50 },
+        { name: "Firebase", level: 60 }
       ]
     }
   ];

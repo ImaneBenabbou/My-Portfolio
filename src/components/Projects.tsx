@@ -44,23 +44,21 @@ const Projects: React.FC = () => {
       description: "Web & mobile platform with AI-based classification for streamlined complaint processing and resolution.",
       image: "/My-Portfolio/images/Complaint1.jpg",
       tags: [
-        "Spring Boot", "React.js", "D3.js", "PostgreSQL", "MongoDB",
-        "spaCy", "FastAPI", "Docker", "Kubernetes", "Firebase", "Git"
+        "Spring Boot", "React.js", "React Native", "PostgreSQL",
+        "spaCy", "FastAPI", "Swagger", "Git"
       ],
       link: "#",
-      status: "Ongoing"
+      
     },
     {
       title: "Cloud-Based Space Mission Control",
       description: "Microservices platform for real-time telemetry and 3D satellite visualization with advanced data processing capabilities.",
       image: "/My-Portfolio/images/space.jpeg",
       tags: [
-        "Spring Boot", "Apache Kafka", "PostgreSQL", "MongoDB",
-        "Kubernetes", "Next.js", "Three.js", "TensorFlow",
-        "Apache Spark", "Jenkins", "Prometheus", "Grafana", "Git"
+        "Spring Boot", "PostgreSQL", "Next.js", "Three.js", "Docker",
+        "Kubernetes", "Apache Kafka", "Jenkins", "Prometheus", "Grafana", "OpenFeign", "Git"
       ],
       link: "#",
-      status: "Ongoing"
     }
   ];
 
